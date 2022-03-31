@@ -1,9 +1,9 @@
-/**
+ /**
  * 
  */
 /**
  * @author SAICOM
  *
  */
-module SampleProj {
+module HelloWorld {
 }
