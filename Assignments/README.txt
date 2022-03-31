@@ -1,0 +1,1 @@
+Objective to commit HTML,CSS and JavaScript assignments in Git
